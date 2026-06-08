@@ -1,0 +1,48 @@
+===============================
+Report Time: Mon Jun  8 22:48:10 IST 2026
+===============================
+
+-- DISK SPACE --
+OK: 59% is 197G% full
+
+-- RAM USAGE --
+OK: RAM is % used (0 MB / 0 MB)
+
+-- SERVICES --
+STOPPED: sshd
+STOPPED: cron
+STOPPED: nginx
+
+--- done ---
+
+===============================
+Report Time: Mon Jun  8 17:21:54 UTC 2026
+===============================
+
+-- DISK SPACE --
+OK: /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2 is 0% full
+OK: /mnt/wsl is 1% full
+OK: /usr/lib/wsl/drivers is 59% full
+OK: / is 1% full
+OK: /mnt/wslg is 1% full
+OK: /usr/lib/wsl/lib is 0% full
+OK: /init is 1% full
+OK: /run is 1% full
+OK: /run/lock is 0% full
+OK: /run/shm is 0% full
+OK: /sys/fs/cgroup is 0% full
+OK: /mnt/wslg/versions.txt is 1% full
+OK: /mnt/wslg/doc is 1% full
+OK: /mnt/c is 59% full
+OK: /run/user/0 is 1% full
+
+-- RAM USAGE --
+OK: RAM is 7% used (595 MB / 7841 MB)
+
+-- SERVICES --
+STOPPED: sshd
+RUNNING: cron
+STOPPED: nginx
+
+--- done ---
+
