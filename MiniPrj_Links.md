@@ -18,7 +18,7 @@
 ## Project 5
 
 * Project Name:MINI PROJECT #11: Static Website CI/CD to S3 
-* GitHub Link: https://github.com/ISHAK290/E-PORTFOLIO_v2.git
+* GitHub Link: https://github.com/ISHAK290/E-PORTFOLIO_v2/tree/ci/cd_checks
 * Note : Select "ci/cd_checks" branch and deployed on Vercel rather than AWS S3 as instructed by Vasanthi Ma'am
 
 ## Description
